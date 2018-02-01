@@ -6,7 +6,6 @@
 "5":"Saman Ki Suraksha",
 "6":"Dinner- Nahi Rukegi",
 "7":"Good Morning",
-"8":"Online Ticket Booking",
 
 "11":"Dinner- 7 O'clock",
 "12":"Dinner- 7:30 O'clock",
@@ -41,7 +40,7 @@
 "46":"Taroda Naka",
 "47":"Hingoli Gate",
 
-"50":"Nagar",
+"50":"Ahmednagar",
 "51":"Shikrapur",
 "52":"Wagholi",
 "53":"Chandan Nagar Bypass",
@@ -49,14 +48,27 @@
 "55":"Yerwada",
 "56":"Sangamwadi",
 "57":"Nashik fata",
-"58":"Chincwad",
-"59":"Nigadi",
+"58":"Chinchwad",
+"59":"Nigdi",
 
+"71":"Ahmednagar",
 "72":"Aurangabad",
 "73":"Jalna",
 "74":"Mehkar",
 "75":"Washeem",
 "77":"Pusad",
-"78":"Umarkhed"
+"78":"Umarkhed",
+
+"80":"Ahmednagar",
+"81":"Aurangabad",
+"82":"Jalna",
+"83":"Jintur",
+"84":"Aundha Nagnath",
+"85":"Hingoli",
+"86":"Kalamnuri",
+"87":"Balapur",
+"88":"Hathgaon",
+"89":"Umarkhed"
+
 
 }
